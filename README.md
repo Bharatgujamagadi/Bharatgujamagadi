@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharatgujamagadi
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning MCA
+- 🌱 I’m fresh graduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bharatcg.work@gmail.com
 
